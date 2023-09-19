@@ -1,6 +1,6 @@
-### This is a Tampermonkey script!
+### This is a browser userscript!
 
-Tampermonkey is a browser extension for running user-defined scripts on webpages. Download it at https://www.tampermonkey.net/.
+To use it, install a userscript manager extension like [Tampermonkey](https://www.tampermonkey.net/). Once you have a manager, install this script by using [this link](https://raw.githubusercontent.com/Gatleos/letterboxd-roulette/main/main.user.js).
 
 <hr>
 
